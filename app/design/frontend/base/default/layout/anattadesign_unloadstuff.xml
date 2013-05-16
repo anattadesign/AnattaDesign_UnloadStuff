@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout>
+
+	<anattadesign_awesomecheckout_onepage_index>
+
+		<reference name="head">
+
+			<!--
+			<action method="removeItem">
+				<type>skin_css</type>
+				<name>css/skin.css</name>
+			</action>
+			-->
+
+		</reference>
+
+	</anattadesign_awesomecheckout_onepage_index>
+
+</layout>

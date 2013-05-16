@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<AnattaDesign_UnloadStuff>
+			<version>1.0</version>
+		</AnattaDesign_UnloadStuff>
+	</modules>
+	<frontend>
+		<layout>
+			<updates>
+				<anattadesign_unloadstuff module="anattadesign_unloadstuff">
+					<file>anattadesign_unloadstuff.xml</file>
+				</anattadesign_unloadstuff>
+			</updates>
+		</layout>
+	</frontend>
+</config>
